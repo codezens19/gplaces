@@ -53,4 +53,3 @@ dependencies:
 
 Issues & pull requests are more than welcome!
 # gplaces
-# gplaces
